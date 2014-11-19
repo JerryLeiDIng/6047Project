@@ -1,4 +1,12 @@
-
+'''
+TO DO:
+DUE FRIDAY
+1. Map SNP ranges to genes
+2. Get network data before parsing and figuring it out
+3. Start running this file on all chromosomes (larger ones too)
+4. Clustering
+5. How to represent network? Adjacency matrix? 
+'''
 #Set up the list of SNPs we need
 f = open("GWAS.txt", 'r')
 
